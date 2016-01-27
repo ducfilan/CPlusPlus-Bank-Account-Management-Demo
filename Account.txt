@@ -1,0 +1,9 @@
++-----------------------------------------------------------------------------+
+|      ID       |              NAME              |   BALANCE  |      TYPE     |
++-----------------------------------------------------------------------------+
+|ducfilan       |  Hoang Nghia Duc               |  9999      |        Saving |
+|clever_sheep   |  Tran Trong Tien Dat           |  1000      |        Saving |
+|anhcam_yb      |  Vu Manh Cam                   |  2000      |      Checking |
+|l.daBest       |  Nguyen Tung Lam               |  2500      |      Checking |
+|hoanglinh_c92  |  Hoang Nghia Linh              |  6655554   |        Saving |
++-----------------------------------------------------------------------------+
