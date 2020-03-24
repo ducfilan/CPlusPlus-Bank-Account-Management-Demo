@@ -3,8 +3,8 @@
 //Ctor 0 para
 Account::Account()
 {
-	name=new char[30];
-	userID=new char[10];
+    name=new char[30];
+    userID=new char[10];
     strcpy(name,"");
     strcpy(userID,"");
     pass="";
@@ -341,7 +341,7 @@ string inputPassword(size_t length_max)
     {
         ch = getch();
         if((pass.size() < length_max) &&
-           (::isalpha(ch) || ::isalnum(ch))) // Chi cho phep nhap ki tu và so
+           (::isalpha(ch) || ::isalnum(ch))) // Chi cho phep nhap ki tu vÃ  so
         {
             cout <<'*';
             pass.push_back(ch);
